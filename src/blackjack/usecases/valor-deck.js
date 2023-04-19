@@ -8,3 +8,5 @@ export const valorCarta = ( carta ) => {
             ( valor === 'A' ) ? 11 : 10
             : valor * 1;
 }
+
+//Joseph Pluas
